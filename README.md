@@ -14,6 +14,8 @@ No video editing skills. No hours of manual work. Just a prompt → polished vid
 [![WebUI](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
 [![API](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)](#)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](#)
+[![CI](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo/actions/workflows/ci.yml)
+[![Docker](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo/actions/workflows/docker-ghcr.yml/badge.svg)](https://github.com/Ahsan-Dogar/MoneyPrinterTurbo/actions/workflows/docker-ghcr.yml)
 
 **AI Agent** · **WebUI** · **API** · **CLI** — four ways to use it, one powerful engine.
 
